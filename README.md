@@ -6,13 +6,24 @@
 <div>
   <h2>Sobre mim!</h2>
   
-  <p>Texto</p>
+  <p>
+    Sou um desenvolvedor de software desde 2018 e, que já passou pelas seguintes tecnologias:     
+  </p>
+  <ul>
+    <li>Java 8+</li>
+    <li>Quarkus</li>
+    <li>Spring</li>
+    <li>PHP</li>
+    <li>React</li>
+    <li>Wordpress</li>
+    <li>Magento</li>
+  </ul>
 </div>
 
 <div>
   <h2>Portfolio</h2>
   
-  <p>site</p>
+  <p>[site](https://luisseidel.netlify.app/)</p>
 </div>
 
 <div align="center">
