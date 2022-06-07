@@ -26,11 +26,11 @@
 
 [Meu site: luisseidel.netlify.app](https://luisseidel.netlify.app/)
 
-![Mecânica Gênesis](https://github.com/luisseidel/luisseidel/blob/main/mec_genesis.png?raw=true)
+![Mecânica Gênesis](https://github.com/luisseidel/luisseidel/blob/main/assets/img/mec_genesis.png?raw=true)
 
-![Pasqualotto Pneus](https://github.com/luisseidel/luisseidel/blob/main/pasqualottopneus.png?raw=true)
+![Pasqualotto Pneus](https://github.com/luisseidel/luisseidel/blob/main/assets/img/pasqualottopneus.png?raw=true)
 
-![Pirai Pneus](https://github.com/luisseidel/luisseidel/blob/main/piraipneus.png?raw=true)
+![Pirai Pneus](https://github.com/luisseidel/luisseidel/blob/main/assets/img/piraipneus.png?raw=true)
 
 </div>
 
