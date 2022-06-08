@@ -1,4 +1,3 @@
-
 <h1>
   Olá, seja bem vindo!<br/>
   Eu sou o Luis Guilherme Seidel
@@ -11,49 +10,56 @@
   <p>
     Sou um desenvolvedor de software desde 2018 e, que já passou pelas seguintes tecnologias:     
   </p>
-  <ul>
     <details>
-      <summary>Stack JAVA</summary>
+      <summary>
+         Linguagens
+      </summary>
       <div>
-        <li>Java 8+</li>
-        <li>Quarkus</li>
-        <li>Spring</li>
-        <li>Hibernate</li>
-        <li>Apache Wicket</li>
-        <li>Oracle SQL / PLSQL</li>
-        <li>PostgresSQL</li>
-        <li>SQL Server</li>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=50px />  Java 8+</div>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50px" />   PHP 5+</div>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />  Javascript ECS6+</div>
       </div>
     </details>
     <details>
-      <summary>Stack PHP</summary>
+      <summary>
+         Frameworks
+      </summary>
       <div>
-        <li>PHP 5+</li>
-        <li>Wordpress</li>
-        <li>Magento 1.9+ e 2</li>
-        <li>MariaDB</li>
-        <li>MySQL</li>
+        <div> <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_logo_horizontal_rgb_reverse_blackbkg.svg" width="100px"> Quarkus</div>
+        <div> <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" width="50px">Hibernate</div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px" />  Spring</div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50px" />  Apache Wicket</div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" />  React</div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="50px" />  Magento 1.9+ e 2</div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />TypeScript</div>
+      </div>
+    </details>
+     <details>
+      <summary>
+         Databases
+      </summary>
+      <div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50px" /> Oracle SQL / PLSQL</div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px" />PostgresSQL</div>
+        <div> <img src="./assets/icons/sqlserver.svg" width="50px" />  SQL Server</div>
+        <div> <img src="./assets/icons/mariadb.svg"  width="50px"  />  MariaDB</div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="50px"  />  MySQL</div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" />  SQLite</div>
       </div>
     </details>
     <details>
-      <summary>Stack React</summary>
+      <summary>
+        Front-End
+      </summary>
       <div>
-        <li>React</li>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>SASS</li>
-        <li>GraphQL</li>
-        <li>Styled Components</li>
-        <li>Grid Templates</li>
-        <li>DatoCMS</li>
-        <li>Node</li>
-        <li>TypeScript</li>
-        <li>React Hooks</li>
-        <li>React Contexts</li>
-        <li>Atomic Design</li>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" /></div>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" /></div>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" /></div>
+        <div><img src="https://styled-components.com/logo.png" width="50px" />Styled Components</div>
+        <div><img src="./assets/icons/grid-template.png" width="50px" />  Grid Templates</div>
+        <div><img src="./assets/icons/atomic-design.png" width="50px" />  Atomic Design</div>
       </div>
-    </details>   
-  </ul>
+    </details>
 
   <p>
     Em cada experiência, pude ver e desenvolver em uma tecnologia diferente, adquirindo mais habilidades e conhecendo diferentes formas de fazer coisas inscríveis. Abaixo, ficam algumas dessas.
