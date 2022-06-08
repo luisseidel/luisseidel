@@ -6,31 +6,110 @@
 
 <div>
   <h2>Sobre mim!</h2>
+  <h4>(Clique em cada uma das setinhas para abrir!)</h4>
 
   <p>
     Sou um desenvolvedor de software desde 2018 e, que já passou pelas seguintes tecnologias:     
   </p>
   <ul>
-    <li>Java 8+</li>
-    <li>Quarkus</li>
-    <li>Spring</li>
-    <li>PHP</li>
-    <li>React</li>
-    <li>Wordpress</li>
-    <li>Magento</li>
+    <details>
+      <summary>Stack JAVA</summary>
+      <div>
+        <li>Java 8+</li>
+        <li>Quarkus</li>
+        <li>Spring</li>
+        <li>Hibernate</li>
+        <li>Apache Wicket</li>
+        <li>Oracle SQL / PLSQL</li>
+        <li>PostgresSQL</li>
+        <li>SQL Server</li>
+      </div>
+    </details>
+    <details>
+      <summary>Stack PHP</summary>
+      <div>
+        <li>PHP 5+</li>
+        <li>Wordpress</li>
+        <li>Magento 1.9+ e 2</li>
+        <li>MariaDB</li>
+        <li>MySQL</li>
+      </div>
+    </details>
+    <details>
+      <summary>Stack React</summary>
+      <div>
+        <li>React</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>SASS</li>
+        <li>GraphQL</li>
+        <li>Styled Components</li>
+        <li>Grid Templates</li>
+        <li>DatoCMS</li>
+        <li>Node</li>
+        <li>TypeScript</li>
+        <li>React Hooks</li>
+        <li>React Contexts</li>
+        <li>Atomic Design</li>
+      </div>
+    </details>   
   </ul>
+
+  <p>
+    Em cada experiência, pude ver e desenvolver em uma tecnologia diferente, adquirindo mais habilidades e conhecendo diferentes formas de fazer coisas inscríveis. Abaixo, ficam algumas dessas.
+  </p>
 </div>
 
 <div>
-  <h2>Portfolio</h2>
 
-[Meu site: luisseidel.netlify.app](https://luisseidel.netlify.app/)
+<details>
+    <summary>Meu Site Portfólio</summary>
+    <br/>
+    <div>
+        <a href="https://luisseidel.netlify.app/" target="_blank">
+          <img src="./assets/img/meusite.png">
+        </a>
+    </div>
+</details>
 
-![Mecânica Gênesis](https://github.com/luisseidel/luisseidel/blob/main/assets/img/mec_genesis.png?raw=true)
+<details>
+    <summary>Aplicações em React</summary>
+    <br/>
+    <div>
+        <a href="https://letmeask-c5ecc.web.app/" target="_blank">
+          <img src="./assets/img/letmeask.png">
+        </a>
+    </div>
+    <br/>
+    <div>
+        <a href="https://orkut-clone-mu.vercel.app/" target="_blank">
+          <img src="./assets/img/orkut.png">
+        </a>
+    </div>
+</details>
 
-![Pasqualotto Pneus](https://github.com/luisseidel/luisseidel/blob/main/assets/img/pasqualottopneus.png?raw=true)
 
-![Pirai Pneus](https://github.com/luisseidel/luisseidel/blob/main/assets/img/piraipneus.png?raw=true)
+<details>
+    <summary>Sites em Wordpress/PHP</summary>
+    <br/>
+    <div>
+        <a href="https://mecanicagenesis.com.br/" target="_blank">
+          <img src="./assets/img/mecgenesis.png">
+        </a>
+    </div>
+    <br/>
+    <div>
+        <a href="https://pasqualottopneus.com.br/" target="_blank">
+          <img src="./assets/img/pasqualottopneus.png">
+        </a>
+    </div>
+    <br/>
+    <div>
+        <a href="https://piraipneus.com.br/" target="_blank">
+          <img src="./assets/img/piraipneus.png">
+        </a>
+    </div>
+</details>
 
 </div>
 
