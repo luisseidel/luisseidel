@@ -14,51 +14,51 @@
       <summary>
          Linguagens
       </summary>
-      <div style="display: flex;">
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=80px /></div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80px" /></div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" /></div>
-      </div>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=80px /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" /></td>
+      </tr>
     </details>
     <details>
       <summary>
          Frameworks
       </summary>
-      <div style="display: flex;">
-        <div> <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_logo_horizontal_rgb_reverse_blackbkg.svg" width="150px"></div>
-        <div> <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" width="80px"></div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80px" /></div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80px" /></div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80px" /></div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="80px" /></div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80px" /></div>
-      </div>
+      <tr>
+        <td> <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_logo_horizontal_rgb_reverse_blackbkg.svg" width="150px"></td>
+        <td> <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" width="80px"></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="80px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80px" /></td>
+      </tr>
     </details>
      <details>
       <summary>
          Databases
       </summary>
-      <div style="display: flex;">
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="80px" /></div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80px" /></div>
-        <div> <img src="./assets/icons/sqlserver.svg" width="80px" /></div>
-        <div> <img src="./assets/icons/mariadb.svg"  width="80px"  /></div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="80px"  /></div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80px" /></div>
-      </div>
+      <tr>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="80px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80px" /></td>
+        <td> <img src="./assets/icons/sqlserver.svg" width="80px" /></td>
+        <td> <img src="./assets/icons/mariadb.svg"  width="80px"  /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="80px"  /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80px" /></td>
+      </tr>
     </details>
     <details>
       <summary>
         Front-End
       </summary>
-      <div style="display: flex;">
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="80px" /></div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="80px" /></div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80px" /></div>
-        <div><img src="https://styled-components.com/logo.png" width="80px" /></div>
-        <div><img src="./assets/icons/grid-template.png" width="80px" /></div>
-        <div><img src="./assets/icons/atomic-design.png" width="80px" /></div>
-      </div>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="80px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="80px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80px" /></td>
+        <td><img src="https://styled-components.com/logo.png" width="80px" /></td>
+        <td><img src="./assets/icons/grid-template.png" width="80px" /></td>
+        <td><img src="./assets/icons/atomic-design.png" width="80px" /></td>
+      </tr>
     </details>
 
   <p>
@@ -120,7 +120,7 @@
 </div>
 
 <h2>Estatísticas</h2>
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
+<div style="float: left;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisseidel&layout=compact&langs_count=10&show_icons=true&theme=synthwave)](https://github.com/luisseidel/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisseidel&count_private=true&show_icons=true&theme=synthwave)](https://github.com/luisseidel/github-readme-stats)
