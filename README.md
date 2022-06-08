@@ -14,50 +14,50 @@
       <summary>
          Linguagens
       </summary>
-      <div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=50px />  Java 8+</div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50px" />   PHP 5+</div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />  Javascript ECS6+</div>
+      <div style="display: flex;">
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=80px /></div>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80px" /></div>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" /></div>
       </div>
     </details>
     <details>
       <summary>
          Frameworks
       </summary>
-      <div>
-        <div> <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_logo_horizontal_rgb_reverse_blackbkg.svg" width="100px"> Quarkus</div>
-        <div> <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" width="50px">Hibernate</div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px" />  Spring</div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50px" />  Apache Wicket</div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" />  React</div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="50px" />  Magento 1.9+ e 2</div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />TypeScript</div>
+      <div style="display: flex;">
+        <div> <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_logo_horizontal_rgb_reverse_blackbkg.svg" width="150px"></div>
+        <div> <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" width="80px"></div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80px" /></div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80px" /></div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80px" /></div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="80px" /></div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80px" /></div>
       </div>
     </details>
      <details>
       <summary>
          Databases
       </summary>
-      <div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50px" /> Oracle SQL / PLSQL</div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px" />PostgresSQL</div>
-        <div> <img src="./assets/icons/sqlserver.svg" width="50px" />  SQL Server</div>
-        <div> <img src="./assets/icons/mariadb.svg"  width="50px"  />  MariaDB</div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="50px"  />  MySQL</div>
-        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" />  SQLite</div>
+      <div style="display: flex;">
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="80px" /></div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80px" /></div>
+        <div> <img src="./assets/icons/sqlserver.svg" width="80px" /></div>
+        <div> <img src="./assets/icons/mariadb.svg"  width="80px"  /></div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="80px"  /></div>
+        <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80px" /></div>
       </div>
     </details>
     <details>
       <summary>
         Front-End
       </summary>
-      <div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" /></div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" /></div>
-        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" /></div>
-        <div><img src="https://styled-components.com/logo.png" width="50px" />Styled Components</div>
-        <div><img src="./assets/icons/grid-template.png" width="50px" />  Grid Templates</div>
-        <div><img src="./assets/icons/atomic-design.png" width="50px" />  Atomic Design</div>
+      <div style="display: flex;">
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="80px" /></div>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="80px" /></div>
+        <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80px" /></div>
+        <div><img src="https://styled-components.com/logo.png" width="80px" /></div>
+        <div><img src="./assets/icons/grid-template.png" width="80px" /></div>
+        <div><img src="./assets/icons/atomic-design.png" width="80px" /></div>
       </div>
     </details>
 
