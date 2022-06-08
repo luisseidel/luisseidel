@@ -118,5 +118,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisseidel&layout=compact&langs_count=10&show_icons=true&theme=synthwave)](https://github.com/luisseidel/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisseidel&count_private=true&show_icons=true&theme=synthwave)](https://github.com/luisseidel/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisseidel)](https://github.com/luisseidel/github-readme-stats)
 </div>
