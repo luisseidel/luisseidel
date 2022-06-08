@@ -10,7 +10,7 @@
   <p>
     Sou um desenvolvedor de software desde 2018 e, que já passou pelas seguintes tecnologias:     
   </p>
-    <details>
+    <details open>
       <summary>
          Linguagens
       </summary>
@@ -20,12 +20,12 @@
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" /></td>
       </tr>
     </details>
-    <details>
+    <details open>
       <summary>
          Frameworks
       </summary>
       <tr>
-        <td> <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_logo_horizontal_rgb_reverse_blackbkg.svg" width="150px"></td>
+        <td> <img src="./assets/icons/quarkus.png" width="80px"></td>
         <td> <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" width="80px"></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80px" /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80px" /></td>
@@ -34,12 +34,12 @@
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80px" /></td>
       </tr>
     </details>
-     <details>
+     <details open>
       <summary>
          Databases
       </summary>
       <tr>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="80px" /></td>
+        <td> <img src="./assets/icons/oracle.png" width="80px" /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80px" /></td>
         <td> <img src="./assets/icons/sqlserver.svg" width="80px" /></td>
         <td> <img src="./assets/icons/mariadb.svg"  width="80px"  /></td>
@@ -47,7 +47,7 @@
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80px" /></td>
       </tr>
     </details>
-    <details>
+    <details open>
       <summary>
         Front-End
       </summary>
@@ -56,8 +56,8 @@
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="80px" /></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80px" /></td>
         <td><img src="https://styled-components.com/logo.png" width="80px" /></td>
-        <td><img src="./assets/icons/grid-template.png" width="80px" /></td>
-        <td><img src="./assets/icons/atomic-design.png" width="80px" /></td>
+        <td><img src="./assets/icons/grid-template.png" width="110px" /></td>
+        <td><img src="./assets/icons/atomic-design.png" width="90px" /></td>
       </tr>
     </details>
 
