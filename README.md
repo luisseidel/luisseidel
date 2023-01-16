@@ -120,11 +120,6 @@
 
 </div>
 
-<h2>Estatísticas</h2>
-<div style="float: left;">
-
-[![Luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisseidel&layout=compact&langs_count=10&show_icons=true&theme=synthwave)](https://github.com/luisseidel/github-readme-stats)
-[![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luisseidel&count_private=true&show_icons=true&theme=synthwave)](https://github.com/luisseidel/github-readme-stats)
 
 ![GitHub Snake dark](https://github.com/luisseidel/luisseidel/blob/output/github-contribution-grid-snake-dark.svg)
 
