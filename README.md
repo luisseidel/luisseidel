@@ -33,6 +33,8 @@
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80px" /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="80px" /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80px" /> </td>
       </tr>
     </details>
      <details open>
@@ -42,8 +44,7 @@
       <tr>
         <td> <img src="./assets/icons/oracle.png" width="80px" /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80px" /></td>
-        <td> <img src="./assets/icons/sqlserver.svg" width="80px" /></td>
-        <td> <img src="./assets/icons/mariadb.svg"  width="80px"  /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="80px" /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="80px"  /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80px" /></td>
       </tr>
@@ -56,9 +57,19 @@
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="80px" /></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="80px" /></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80px" /> </td>
         <td><img src="https://styled-components.com/logo.png" width="80px" /></td>
         <td><img src="./assets/icons/grid-template.png" width="110px" /></td>
         <td><img src="./assets/icons/atomic-design.png" width="90px" /></td>
+      </tr>
+    </details>
+    <details open>
+      <summary>
+        Others
+      </summary>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="80px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="80px" /></td>
       </tr>
     </details>
 
