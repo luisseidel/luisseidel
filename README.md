@@ -15,10 +15,10 @@
          Linguagens
       </summary>
       <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=80px /></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80px" /></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" /></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="80px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="60px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60px" /></td>
       </tr>
     </details>
     <details open>
@@ -27,15 +27,15 @@
       </summary>
       <tr>
         <td> <img src="./assets/icons/quarkus.png" width="80px"></td>
-        <td> <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" width="80px"></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80px" /> </td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="80px" /> </td>
+        <td> <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked.svg" width="60px"></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px" /> </td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="60px" /> </td>
       </tr>
     </details>
      <details open>
@@ -43,11 +43,11 @@
          Databases
       </summary>
       <tr>
-        <td> <img src="./assets/icons/oracle.png" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="80px"  /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80px" /></td>
+        <td> <img src="./assets/icons/oracle.png" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="60px"  /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60px" /></td>
       </tr>
     </details>
     <details open>
@@ -55,13 +55,13 @@
         Front-End
       </summary>
       <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="80px" /></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="80px" /></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80px" /></td>
-        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80px" /> </td>
-        <td><img src="https://styled-components.com/logo.png" width="80px" /></td>
-        <td><img src="./assets/icons/grid-template.png" width="110px" /></td>
-        <td><img src="./assets/icons/atomic-design.png" width="90px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60px" /></td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60px" /> </td>
+        <td><img src="https://styled-components.com/logo.png" width="60px" /></td>
+        <td><img src="./assets/icons/grid-template.png" width="90px" /></td>
+        <td><img src="./assets/icons/atomic-design.png" width="80px" /></td>
       </tr>
     </details>
     <details open>
@@ -69,8 +69,8 @@
         Others
       </summary>
       <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="80px" /></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="80px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60px" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60px" /></td>
       </tr>
     </details>
 
