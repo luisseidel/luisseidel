@@ -133,10 +133,9 @@
 
 </div>
 
-[![Luis GitHub stats](https://github-readme-stats-coral-eight-83.vercel.app/api?username=luisseidel&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-kohl-ten-14.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-coral-eight-83.vercel.app/api/top-langs/?username=luisseidel&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-kohl-ten-14.vercel.app/api/top-langs/?username=luisseidel)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Snake dark](https://github.com/luisseidel/luisseidel/blob/output/github-contribution-grid-snake-dark.svg)
 
