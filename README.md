@@ -133,7 +133,7 @@
 
 </div>
 
-![Luis GitHub stats](https://github-readme-stats-kohl-ten-14.vercel.app/api?username=luisseidel&show_icons=true&theme=radical)
+![Luis GitHub stats](https://github-readme-stats-kohl-ten-14.vercel.app/api?username=luisseidel&show_icons=true&theme=radical&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats-kohl-ten-14.vercel.app/api/top-langs/?username=luisseidel)](https://github.com/luisseidel/github-readme-stats)
 
