@@ -36,6 +36,7 @@
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px" /> </td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="60px" /> </td>
+        <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60px" /> </td>
       </tr>
     </details>
      <details open>
@@ -131,6 +132,8 @@
 </details>
 
 </div>
+
+[![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luisseidel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub Snake dark](https://github.com/luisseidel/luisseidel/blob/output/github-contribution-grid-snake-dark.svg)
