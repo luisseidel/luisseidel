@@ -131,11 +131,21 @@
     </div>
 </details>
 
+ <details open>
+      <summary>
+         Certificações
+      </summary>
+      <tr>
+        <td> <img src="./assets/icons/aws.png" width="80px" /></td>
+        <td> <img src="./assets/icons/scrum.png" width="80px" /></td>
+      </tr>
+    </details>
+
 </div>
 
-![Luis GitHub stats](https://github-readme-stats-kohl-ten-14.vercel.app/api?username=luisseidel&show_icons=true&theme=radical&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats-kohl-ten-14.vercel.app/api/top-langs/?username=luisseidel)](https://github.com/luisseidel/github-readme-stats)
+
+
 
 ![GitHub Snake dark](https://github.com/luisseidel/luisseidel/blob/output/github-contribution-grid-snake-dark.svg)
 
