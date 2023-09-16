@@ -136,8 +136,8 @@
          Certificações
       </summary>
       <tr>
-        <td> <img src="./assets/icons/aws.png" width="80px" /></td>
-        <td> <img src="./assets/icons/scrum.png" width="80px" /></td>
+        <td> <img src="./assets/icons/aws.png" width="120px" /></td>
+        <td> <img src="./assets/icons/scrum.png" width="120px" /></td>
       </tr>
     </details>
 
