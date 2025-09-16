@@ -5,6 +5,9 @@
 
 <div>
   <h2>Sobre mim!</h2>
+  <p>
+    Desenvolvedor de Software com mais de 6 anos de experiência em Java, Spring e Quarkus, atuando em projetos de alta complexidade e impacto no setor público e privado. Atuando com soluções desenvolvidas em microsserviços e nuvem AWS (SQS, SNS, DynamoDB, S3), com vivência em integração de sistemas governamentais e corporativos. Possui experiência em liderança técnica, definição de padrões arquiteturais e revisão de código, promovendo boas práticas e aumento de performance. Pós-graduado em Desenvolvimento Web FullStack, busca constantemente evolução por meio de estudos, certificações e projetos práticos. Reconhecido pela proatividade, visão sistêmica e foco em resultados.
+  </p>
   <h4>(Clique em cada uma das setinhas para abrir!)</h4>
 
   <p>
@@ -78,6 +81,10 @@
   <p>
     Em cada experiência, pude ver e desenvolver em uma tecnologia diferente, adquirindo mais habilidades e conhecendo diferentes formas de fazer coisas inscríveis. Abaixo, ficam algumas dessas.
   </p>
+</div>
+
+<div>
+  [![Luis Seidel GitHub stats](https://github-readme-stats.vercel.app/api?username=luisseidel)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div>
