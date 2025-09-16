@@ -84,7 +84,7 @@
 </div>
 
 <div>
-  [![Luis Seidel GitHub stats](https://github-readme-stats.vercel.app/api?username=luisseidel)](https://github.com/anuraghazra/github-readme-stats)
+  [![Luis Seidel GitHub stats](https://github-readme-stats.vercel.app/api?username=luisseidel)]
 </div>
 
 <div>
