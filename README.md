@@ -3,7 +3,7 @@
   Eu sou o Luis Guilherme Seidel
 </h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=luisseidel&style=flat-square)
 
 <div>
   <h2>Sobre mim!</h2>
